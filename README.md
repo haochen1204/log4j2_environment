@@ -29,8 +29,8 @@ Cache-Control: max-age=0
 
 运行该文件即可
 
-![image-20211213230151388](https://haochen1204.oss-cn-chengdu.aliyuncs.com/web_picture/img/image-20211213230151388.png)
+![image-20211213230151388](./picture/1.png)
 
 漏洞页面文件，可自行修改
 
-![image-20211213230217170](https://haochen1204.oss-cn-chengdu.aliyuncs.com/web_picture/img/image-20211213230217170.png)
+![image-20211213230217170](./picture/2.png)
