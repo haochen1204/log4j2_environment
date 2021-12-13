@@ -1,0 +1,9 @@
+com/jackie/springbootdemo/annotation/DemoAnnotation.class
+com/jackie/springbootdemo/config/RabbitMQConfig.class
+com/jackie/springbootdemo/aspect/DemoAspect.class
+com/jackie/springbootdemo/config/LogConfig.class
+com/jackie/springbootdemo/SpringbootDemoApplication.class
+com/jackie/springbootdemo/message/Sender.class
+com/jackie/springbootdemo/message/Receiver.class
+com/jackie/springbootdemo/model/Person.class
+com/jackie/springbootdemo/controller/HelloController.class

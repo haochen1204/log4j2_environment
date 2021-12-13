@@ -1,0 +1,9 @@
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/aspect/DemoAspect.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/SpringbootDemoApplication.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/config/LogConfig.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/controller/HelloController.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/annotation/DemoAnnotation.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/message/Sender.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/message/Receiver.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/config/RabbitMQConfig.java
+/Users/haochen/code/java/log4j2/log4j2/src/main/java/com/jackie/springbootdemo/model/Person.java

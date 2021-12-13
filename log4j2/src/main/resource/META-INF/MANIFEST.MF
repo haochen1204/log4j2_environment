@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Main-Class: com.jackie.springbootdemo.SpringbootDemoApplication
+Class-Path: jackson-datatype-jsr310-2.9.6.jar spring-boot-2.0.4.RELEASE.
+ jar spring-web-5.0.8.RELEASE.jar spring-boot-autoconfigure-2.0.4.RELEAS
+ E.jar javax.annotation-api-1.3.2.jar spring-boot-starter-json-2.0.4.REL
+ EASE.jar log4j-core-2.12.0.jar tomcat-embed-core-8.5.32.jar log4j-jul-2
+ .10.0.jar jackson-module-parameter-names-2.9.6.jar tomcat-embed-el-8.5.
+ 32.jar jackson-annotations-2.9.0.jar spring-boot-starter-amqp-2.0.4.REL
+ EASE.jar spring-boot-starter-web-2.0.4.RELEASE.jar jul-to-slf4j-1.7.25.
+ jar validation-api-2.0.1.Final.jar jackson-datatype-jdk8-2.9.6.jar spri
+ ng-aop-5.0.8.RELEASE.jar log4j-api-2.12.0.jar hibernate-validator-6.0.1
+ 1.Final.jar snakeyaml-1.19.jar spring-retry-1.2.2.RELEASE.jar spring-tx
+ -5.0.8.RELEASE.jar spring-boot-starter-log4j2-2.0.4.RELEASE.jar spring-
+ rabbit-2.0.5.RELEASE.jar classmate-1.3.4.jar spring-expression-5.0.8.RE
+ LEASE.jar javafx.base-11.0.0-20180702.224858-3-mac.jar tomcat-embed-web
+ socket-8.5.32.jar javafx.base-11.0.0-20180702.224858-3.jar aspectjweave
+ r-1.8.13.jar spring-webmvc-5.0.8.RELEASE.jar amqp-client-5.1.2.jar spri
+ ng-core-5.0.8.RELEASE.jar jackson-databind-2.9.6.jar log4j-slf4j-impl-2
+ .10.0.jar spring-boot-starter-aop-2.0.4.RELEASE.jar spring-amqp-2.0.5.R
+ ELEASE.jar spring-messaging-5.0.8.RELEASE.jar jackson-core-2.9.6.jar sp
+ ring-beans-5.0.8.RELEASE.jar spring-boot-starter-2.0.4.RELEASE.jar jbos
+ s-logging-3.3.2.Final.jar spring-jcl-5.0.8.RELEASE.jar javafx.base-11.0
+ .0-20180702.223831-2-linux.jar javafx.base-11.0.0-20180629.175051-1-win
+ .jar spring-boot-starter-tomcat-2.0.4.RELEASE.jar slf4j-api-1.7.25.jar 
+ spring-context-5.0.8.RELEASE.jar
+
